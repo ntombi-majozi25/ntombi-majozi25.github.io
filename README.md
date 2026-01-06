@@ -1,6 +1,6 @@
 📌This is my personal website showcasing my skills, projects, and background as an aspiring Data/Tech professional
 
-🌐Site: Coming Soon
+🌐Site: https://ntombi-majozi25.github.io/
 
 📌This portfolio was built to:
 -Present my project and technical skills
